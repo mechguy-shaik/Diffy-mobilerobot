@@ -18,9 +18,6 @@ Documentation/      -> Reports, BOM, drawings and references
 - FDM 3D printing
 - Sensors & motor drivers
 
-## Current Status
-✅ Structure created  
-🚧 Design & development in progress
 
-## Author
-Mechanical & Product Design Engineer | Robotics & Medical Devices
+
+
